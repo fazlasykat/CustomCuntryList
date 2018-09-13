@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Custom Cuntry List</string>
+
+    <string-array name="country_names">
+
+
+
+        <item> Afganisthan </item>
+        <item> Argentina </item>
+        <item> Austrila </item>
+        <item> Bangladesh </item>
+        <item> Brasil </item>
+        <item> Canada </item>
+        <item> China </item>
+        <item> Japan </item>
+        <item> India </item>
+        <item> Koria </item>
+        <item> Newzeland </item>
+        <item> Pakistan </item>
+        <item> Saodi Arobia </item>
+        <item> South Africa </item>
+
+
+
+
+
+    </string-array>
+</resources>
